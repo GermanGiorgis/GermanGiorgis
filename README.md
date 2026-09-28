@@ -1,7 +1,8 @@
 # Germán Giorgis
 
 Técnico Superior en Desarrollo de Software (IES Manuel Belgrano, Mendoza). Backend enfocado en
-Java/Spring Boot y Python/FastAPI, con frontend en React/TypeScript.
+Java/Spring Boot y Python/FastAPI, con frontend en React/TypeScript. Actualmente en búsqueda de
+mi primera oportunidad laboral como desarrollador.
 
 ## Proyectos
 
@@ -33,4 +34,4 @@ PostgreSQL · SQLite
 
 ## Contacto
 
-germanggiorgis@gmail.com
+📧 germanggiorgis@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/germangiorgis)
